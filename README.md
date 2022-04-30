@@ -16,5 +16,5 @@ Hope you'll like it :)
 
 # Screenshots:
 
-<img src="src/screenshot/Screenshot1.png"/>
-<img src="src/screenshot/Screenshot2.png"/>
+<img src="/screenshot/Screenshot1.png"/>
+<img src="/screenshot/Screenshot2.png"/>
